@@ -6,7 +6,7 @@ It contains 2 questions
 - Organization database containing Employee and Department tables.
 - Company database containing employee,department,project,works_on tables.
 
-###How to use the given SQL files
+### How to use the given SQL files
 
 - Open MySQL workbench or Xampp and login into your SQL account
 - In xampp simply go to sql import and import sql database
